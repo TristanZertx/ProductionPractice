@@ -1,0 +1,15 @@
+# Visual Studio / CMake
+.vs/
+out/
+build/
+CMakeSettings.json
+CMakePresets.json
+*.user
+*.suo
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
